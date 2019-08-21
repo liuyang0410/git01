@@ -1,13 +1,14 @@
 package com.admin;
 
+import sun.awt.SunToolkit;
+
 /**
  * @description:
  * @author: LiuYang
- * @create: 23:34
+ * @create: 14:15
  */
-public class User {
+public class aaa {
     public static void main(String[] args) {
-        System.out.println(321);
-        System.out.println(321);
+        System.out.println(2222);
     }
 }
